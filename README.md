@@ -1,1 +1,1 @@
-# chargerwallet--btc-provider
+# chargerwallet-btc-provider
